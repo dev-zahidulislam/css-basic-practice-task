@@ -1,0 +1,16 @@
+section {
+    width: 500px;
+    border: 2px solid red;
+    margin: 50px auto;
+    text-align: justify;
+    padding: 0 10px 10px;
+
+}
+section h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    color: red;
+    background-color: aqua;
+
+}
