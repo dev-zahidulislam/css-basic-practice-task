@@ -1,0 +1,63 @@
+.hero-container{
+    background-image: url("../Images/—Pngtree—bottom\ shadow\ gradient\ abstract_7267454.png"), url("../Images/ahmed-jubair-o-laT37E8Go-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.hero-content{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 250px;
+    color: white;
+    
+}
+
+.image-content {
+    width: 60%;
+    margin: 20px auto;
+    
+    
+    
+    
+   
+}
+
+.image-content img{
+    width: 100%;
+    /* margin-top: 30px; */
+    border: none;
+    border-radius: 10px; 
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 10px black;
+}
+.image-content h1{
+    text-align: center;
+}
+
+.footer-container{
+    background-color: blue;
+    /* height: 200px; */
+    color: wheat;
+}
+
+.footer-content{
+    /* width: 80%; */
+    margin: 0 auto;
+    border: 2px solid white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content img{
+    width: 20%;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 10px;
+   
+}
