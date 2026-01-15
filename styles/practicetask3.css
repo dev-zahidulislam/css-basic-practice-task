@@ -1,0 +1,35 @@
+*{
+    padding: 0 5px;
+}
+
+#container{
+    width: 60%;
+    margin: 0 auto;
+    background-color: aqua;
+    border: 3px solid red;
+}
+.heading-section{
+    color: red;
+    text-align: center;
+}
+
+/* shared styel */
+.primary-text{
+    text-align: justify;
+    font-size: 16px;
+
+}
+
+.div-container{ 
+    background-color: blue;
+padding: 2px 20px;
+color: aliceblue;
+margin: 0 10px 10px ;
+border: none;
+border-radius: 5px;
+
+}
+ul li{
+    list-style: none;
+    color: rgb(217, 255, 0);
+}
