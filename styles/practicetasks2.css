@@ -1,0 +1,31 @@
+body{
+    width: 60%;
+    margin: 10px auto;
+    border: 5px solid red;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p{
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h2{
+    background-color: blue;
+    color: aqua;
+    margin-top: 50px;
+}
+
+ul{
+color: brown;
+font-style: oblique;
+line-height: 40px;
+}
